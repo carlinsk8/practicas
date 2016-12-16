@@ -1,2 +1,7 @@
+
 # Esto esta en el master
 esto esta en vista diego raiz
+
+# practicas
+carlos en su raiz actualizo 12
+
